@@ -1,6 +1,6 @@
 provider "aws"{
     region = "ap-southeast-2"
-    //APC region sydney
+    
 }
 
 module "webserver_cluster" {
