@@ -5,5 +5,5 @@
 *.tfstate
 *.tfstate.*
 
-#tf variable files may include sensitive date
+#tf variable files may include sensitive date..
 *.tfvars
